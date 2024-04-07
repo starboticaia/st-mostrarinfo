@@ -12,9 +12,9 @@ st.markdown(":red[Texto] de :rainbow[colores] con :violet[Markdown]")
 multilinea = """
 Cuando deseamos escribir  
 un texto multilínea  
-creamos una variable  
-y la usamos en la función  
-st.markdown()
+insertamos al final  
+de cada línea  
+dos espacios.
 """
 
 st.markdown(multilinea)
