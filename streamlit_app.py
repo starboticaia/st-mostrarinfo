@@ -5,4 +5,4 @@ st.header("Cabecera")
 st.subheader("Subcabecera")
 st.write("Texto simple")
 
-st.markdown("#Encabezado 1")
+st.markdown("*negrita* **cursiva** ***negrita cursiva***")
