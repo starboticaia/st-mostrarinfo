@@ -6,3 +6,5 @@ st.subheader("Subcabecera")
 st.write("Texto simple")
 
 st.markdown("*negrita* **cursiva** ***negrita cursiva***")
+
+st.write("[códigos de emojis para streamlit] https://streamlit-emoji-shortcodes-streamlit-app-gwckff.streamlit.app/")
