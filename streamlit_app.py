@@ -1,3 +1,10 @@
 import streamlit as st
 
-st.write("Hola mundo")
+st.write("Texto simple")
+
+st.write("""
+Esto
+es
+un texto
+multilínea
+""")
