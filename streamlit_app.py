@@ -18,6 +18,11 @@ dos espacios.
 
 Para un nuevo párrafo  
 insertamos dos saltos de línea.
+
+Si entre líneas no
+colocamos
+espacios o doble salto
+todo aparecerá dentro de la misma línea.
 """
 
 st.markdown(multilinea)
