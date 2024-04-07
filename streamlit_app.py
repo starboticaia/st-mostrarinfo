@@ -15,6 +15,9 @@ un texto multilínea
 insertamos al final  
 de cada línea  
 dos espacios.
+
+Para un nuevo párrafo  
+insertamos dos saltos de línea.
 """
 
 st.markdown(multilinea)
