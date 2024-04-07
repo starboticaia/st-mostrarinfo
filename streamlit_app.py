@@ -1,10 +1,8 @@
 import streamlit as st
 
+st.title("Título")
+st.header("Cabecera")
+st.subheader("Subcabecera")
 st.write("Texto simple")
 
 st.markdown("#Encabezado 1")
-st.write("##Encabezado 2")
-st.write("###Encabezado 3")
-st.write("####Encabezado 4")
-st.write("#####Encabezado 5")
-st.write("######Encabezado 6")
